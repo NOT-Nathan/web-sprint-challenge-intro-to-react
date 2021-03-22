@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 import './App.css';
-import Characters from "./components/Character"
+import Characters from "./components/Character";
 import axios from "axios";
 import styled from "styled-components";
 
